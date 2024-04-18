@@ -1,4 +1,4 @@
-<h3 align="center">Hi there 👋 I'm <a href="https://www.linkedin.com/in/joan-morat%C3%B3-contreras/" title="Joan Morató's Linkedin">Joan Morató</a> 😃</h3>
+<h3 align="center">Hi there 👋 I'm <a href="https://www.linkedin.com/in/joan-morato-contreras/" title="Joan Morató's Linkedin">Joan Morató</a> 😃</h3>
 
 <p align="center">I am a Front-end Developer and Industrial Engineering</p>
 
