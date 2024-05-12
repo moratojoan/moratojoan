@@ -2,7 +2,7 @@
 
 - I'm a Front-end Developer with a background in Industrial Engineering
 - I'm currently working on [Autentia](https://www.autentia.com/)
-- You can learn more about my career on my [LinkedIn](https://www.linkedin.com/in/joan-morato-contreras/)
+- Contact me on [LinkedIn](https://www.linkedin.com/in/joan-morato-contreras/)
 
 ### Articles
 - (28/05/2024): [Componentes UI en Angular: botón, modal, input](https://www.adictosaltrabajo.com/2024/05/08/componentes-ui-en-angular-boton-modal-input/). En [Adictos al trabajo](https://www.adictosaltrabajo.com/)
