@@ -1,8 +1,14 @@
-<h3>Hi there, I'm <a href="https://www.linkedin.com/in/joan-morato-contreras/" title="Joan Morató's Linkedin">Joan Morató</a> 👋</h3>
+### Hi there, I'm [Joan Morató Contreras](https://www.linkedin.com/in/joan-morato-contreras/) 👋
 
-<p>I'm a Front-end Developer with a background in Industrial Engineering</p>
+- I'm a Front-end Developer with a background in Industrial Engineering
+- I'm currently working on [Autentia](https://www.autentia.com/)
+- You can You can learn more about my career on my [LinkedIn](https://www.linkedin.com/in/joan-morato-contreras/)
 
-<h3>Technology Stack</h3>
+### Articles
+- (28/05/2024): [Componentes UI en Angular: botón, modal, input](https://www.adictosaltrabajo.com/2024/05/08/componentes-ui-en-angular-boton-modal-input/). En [Adictos al trabajo](https://www.adictosaltrabajo.com/)
+
+  
+### Technology Stack
 <div>
   <img
        align="center"
