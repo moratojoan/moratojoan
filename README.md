@@ -5,7 +5,7 @@
 - Contact me on [LinkedIn](https://www.linkedin.com/in/joan-morato-contreras/)
 
 ### Articles
-- (28/05/2024): [Componentes UI en Angular: botón, modal, input](https://www.adictosaltrabajo.com/2024/05/08/componentes-ui-en-angular-boton-modal-input/). En [Adictos al trabajo](https://www.adictosaltrabajo.com/)
+- (28/05/2024): [Componentes UI en Angular: botón, modal, input](https://www.adictosaltrabajo.com/2024/05/08/componentes-ui-en-angular-boton-modal-input/). Posted in [Adictos al trabajo](https://www.adictosaltrabajo.com/)
 
   
 ### Technology Stack
