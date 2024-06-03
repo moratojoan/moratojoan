@@ -6,6 +6,7 @@
 - 📬 Contact me on [LinkedIn](https://www.linkedin.com/in/joan-morato-contreras/) or [Twitter](https://x.com/moratojoandev)
 
 ### Articles
+- (03/06/2024): [Introducción a Angular en momentos de cambio](https://adictosaltrabajo.com/2024/06/03/introduccion-a-angular-en-momentos-de-cambio/). Posted in [Adictos al trabajo](https://www.adictosaltrabajo.com/)
 - (28/05/2024): [Componentes UI en Angular: botón, modal, input](https://www.adictosaltrabajo.com/2024/05/08/componentes-ui-en-angular-boton-modal-input/). Posted in [Adictos al trabajo](https://www.adictosaltrabajo.com/)
 
   
