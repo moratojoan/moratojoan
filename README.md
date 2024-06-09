@@ -3,7 +3,7 @@
 - 👤 I'm a Frontend developer with a background in Industrial Engineering
 - 💻 I'm currently working at [Autentia](https://www.autentia.com/)
 - 📸 I do analog photografy as a hobby
-- 📬 Contact me on [LinkedIn](https://www.linkedin.com/in/joan-morato-contreras/) or [Twitter](https://x.com/moratojoandev)
+- 📬 Contact me on [LinkedIn](https://www.linkedin.com/in/joan-morato-contreras/)
 
 ### Articles
 - (03/06/2024): [Introducción a Angular en momentos de cambio](https://adictosaltrabajo.com/2024/06/03/introduccion-a-angular-en-momentos-de-cambio/). Posted in [Adictos al trabajo](https://www.adictosaltrabajo.com/)
